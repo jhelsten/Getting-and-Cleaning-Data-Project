@@ -30,7 +30,7 @@ There are 3 data sets in the train and test folder (X, Y and subject)
 3. Then it assigns a column name to the column of Subject using the names() function.
 
 ## Merge data
-1. the subject, activity and x tables are merged into one data table using the cbind() function.
+1. The subject, activity and x tables are merged into one data table using the cbind() function.
 
 ## Melt data
 1. Melt the dataset by specifying Subject, Activity Id and Activity as the only ID variables.
